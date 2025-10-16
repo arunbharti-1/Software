@@ -59,14 +59,3 @@ If you must contribute, please submit pull requests that:
 2.  Refactor the code to make the sequence even harder to change.
 3.  Fix typos in this README.
 
-### 📄 License
-
-This project is licensed under the **WTFPL** (Do What The F\*ck You Want To Public License).
-
-### 🏷️ Badges
-
-| Status | Details |
-| :--- | :--- |
-| **Build** | [](https://www.google.com/search?q=https://example.com/build) |
-| **Randomness** | [](https://www.google.com/search?q=https://example.com/randomness-report) |
-| **Uselessness** | [](https://www.google.com/search?q=https://example.com/uselessness-report) |
