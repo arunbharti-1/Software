@@ -38,6 +38,4 @@ This repository contains a series of laboratory exercises that apply modern soft
 
 ---
 
-## 📂 Repository Structure
 
-The project files and final deliverables for each exercise are organized into numbered folders:
